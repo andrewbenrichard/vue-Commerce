@@ -29904,3 +29904,15 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
 }
 
+a.nav-link.router-link-exact-active.router-link-active {
+  background-color: #007bff;
+}
+
+a.nav-link.router-link-exact-active.router-link-active > p {
+  color: #fff;
+}
+
+a.nav-link.router-link-exact-active.router-link-active > i {
+  color: #fff;
+}
+
